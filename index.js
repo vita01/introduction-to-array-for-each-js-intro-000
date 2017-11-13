@@ -13,4 +13,4 @@ function changeCompletely(element, index, array){
 let arr = ["meat", "fish", "apple"]
 
  doToElementsInArray(arr, changeCompletely)
- console.log(animals)
+ console.log(arr);
